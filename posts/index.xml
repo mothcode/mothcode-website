@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Mothcode</title>
+        <link>https://mothcode.com/posts/</link>
+        <description>All Posts | Mothcode</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 22 Jun 2020 22:12:51 &#43;0100</lastBuildDate><atom:link href="https://mothcode.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://mothcode.com/first_post/</link>
+    <pubDate>Mon, 22 Jun 2020 22:12:51 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://mothcode.com/first_post/</guid>
+    <description><![CDATA[Just testing]]></description>
+</item></channel>
+</rss>
