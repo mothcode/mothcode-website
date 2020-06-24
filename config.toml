@@ -409,12 +409,11 @@ theme = "LoveIt"
     thumbnailUrl = "/images/screenshot.png"
 
   # Analytics config
-  # 网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "UA-170629131-1"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
