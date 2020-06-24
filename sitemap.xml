@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://mothcode.com/first_post/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mothcode.com/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mothcode.com/posts/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://mothcode.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://mothcode.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://www.mothcode.com/first_post/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.mothcode.com/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.mothcode.com/posts/</loc><lastmod>2020-06-22T22:12:51&#43;01:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.mothcode.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.mothcode.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
